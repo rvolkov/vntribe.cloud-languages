@@ -1,0 +1,26 @@
+{
+    "texts": [
+        { 
+            "support.new.user": [
+                { "eng": 
+"For experiments to understand VNT Spaces work we recomment you create your own VNT by menu [Options/Create new VNT] and do your learning there. You can add several users in different groups on your one login and switch between them with [User@VNT] selector in the left upper corner." 
+                },
+                { "rus": 
+"Чтобы попробовать VNTSpaces мы рекомендуем создать свое собственное VNT через меню [Настройки/Создать новый VNT] и тренироваться в этом новом VNT. Вы можете добавить несколько ползователей в разные группы и привязать их всех к одному эккаунту чтобы потом переключаться между ними с селектора [nickname@VNT] в левом верхнем углу."
+                }
+            ]
+        },
+        {
+            "support.vnt.spaces": [
+                {
+                    "eng": 
+"Web-portal with API service to help groups of people to manage itself by maintaining connections and deliver messages with attempt to do it without information losses on human-2-human communications. For it all the peoples' interactions are downgraded to transactions with a formal logic. Because of simplified interactions, software applications can be integrated as equal users in the teams. Our goal is to help the group or company operate as a single body in interest of members."
+                },
+                {
+                    "rus": 
+"Это веб-портал и API сервис для того чтобы организовать свмоуправление группами людей через управление их взаимодействием и обменом сообщениями с целью сделать это без потерь информации. Для этого все взаимодействия между людьми искуственно упрощаются до уровня транзакционных сообщений с формальной логикой. Из-за упрощения во взаимодействиях мы можем интегрировать приложения и устройства в цепочки людей внтури групп как обычные пользователи. В результате люди, приложения и устройства позволяют организации работать как единое целое в интересах участников."
+                }
+            ]
+        }
+    ]
+}

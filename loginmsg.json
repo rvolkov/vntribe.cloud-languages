@@ -1,0 +1,293 @@
+{
+    "messages": [
+        { 
+            "your email": [
+                { "en": "your email you used to register for vnt.space"},
+                { "ru": "емайл который вы использовали для регистрации на vnt.space" }
+            ]
+        },
+        { 
+            "your password": [
+                { "en": "your password you used to register for vnt.space"},
+                { "ru": "ваш пароль, который вы занесли при регистрации на vnt.space" }
+            ]
+        },
+        { 
+            "your new password": [
+                { "en": "password to use for login"},
+                { "ru": "новый пароль для доступа" }
+            ]
+        },
+        { 
+            "Email": [
+                { "ru": "Е-майл" }
+            ]
+        },
+        { 
+            "email": [
+                { "en": "email in format aaa@bbb.ccc"},
+                { "ru": "е-майл в формате aaa@bbb.ccc" }
+            ]
+        },
+        { 
+            "validate email": [
+                { "ru": "повторить е-майл" }
+            ]
+        },
+        { 
+            "backup email": [
+                { "ru": "запасной е-майл" }
+            ]
+        },
+        { 
+            "validate backup email": [
+                { "ru": "повторить запасной е-майл" }
+            ]
+        },
+        { 
+            "Password": [
+                { "ru": "Пароль" }
+            ]
+        },
+        { 
+            "password": [
+                { "ru": "пароль" }
+            ]
+        },
+        { 
+            "new password": [
+                { "ru": "новый пароль" }
+            ]
+        },
+        { 
+            "validate password": [
+                { "ru": "повторить пароль" }
+            ]
+        },
+        { 
+            "validate new password": [
+                { "ru": "повторить новый пароль" }
+            ]
+        },
+        { 
+            "Login": [
+                { "ru": "Войти" }
+            ]
+        },
+        { 
+            "Register": [
+                { "ru": "Зарегистрироваться" }
+            ]
+        },
+        { 
+            "Restore": [
+                { "ru": "Восстановить" }
+            ]
+        },
+        { 
+            "Wrong email or password": [
+                { "ru": "Не подходит емайл или пароль" }
+            ]
+        },
+        { 
+            "VNT invitation code": [
+                { "ru": "Код приглашения в VNT" }
+            ]
+        },
+        { 
+            "invitation code": [
+                { "ru": "код приглашения" }
+            ]
+        },
+        { 
+            "Add VNT invitation to your previously created account": [
+                { "ru": "Добавить приглашение VNT в ранее созданный эккаунт" }
+            ]
+        },
+        { 
+            "Add VNT to existed account": [
+                { "ru": "Добавить VNT в существующий эккаунт" }
+            ]
+        },
+        { 
+            "Validate email": [
+                { "ru": "Повтор е-майла" }
+            ]
+        },
+        { 
+            "Create a new account and add VNT invitation to it": [
+                { "ru": "Создать новый эккаунт и добавить приглашение VNT в него" }
+            ]
+        },
+        { 
+            "Create new account for VNT": [
+                { "ru": "Создать новый эккаунт для VNT" }
+            ]
+        },
+        { 
+            "invalid email": [
+                { "ru": "нужна запись в формате е-майл" }
+            ]
+        },
+        { 
+            "too short password": [
+                { "ru": "пароль слишком короткий" }
+            ]
+        },
+        { 
+            "Select": [
+                { "ru": "Выбрать" }
+            ]
+        },
+        { 
+            "Request recovery code": [
+                { "ru": "Запросить код восстановления" }
+            ]
+        },
+        { 
+            "recovery code": [
+                { "ru": "код восстановления" }
+            ]
+        },
+        { 
+            "Update your account": [
+                { "ru": "Обновить эккаунт" }
+            ]
+        },
+        { 
+            "invalid email": [
+                { "ru": "неправильный е-майл" }
+            ]
+        },
+        { 
+            "too short password": [
+                { "ru": "пароль должен быть > 8" }
+            ]
+        },
+        { 
+            "too short code": [
+                { "ru": "слишком короткий код" }
+            ]
+        },
+        { 
+            "validation email is not the same": [
+                { "ru": "разные е-майлы" }
+            ]
+        },
+        { 
+            "validation password is not the same": [
+                { "ru": "разные основной и проверочный пароли" }
+            ]
+        },
+        { 
+            "invalid backup email": [
+                { "ru": "неправильный формат запасного е-майл" }
+            ]
+        },
+        { 
+            "validation backup email is not the same": [
+                { "ru": "проверочный запасной е-майл другой" }
+            ]
+        },
+        {
+            "Registration to VNTSpace is only by invitation from existed user": [
+                { "ru": "Регистрация на VNTSpace только по приглашению существующего клиента" }
+            ]
+        },
+        { 
+            "You need to have VNT invitation code to continue": [
+                { "ru": "У вас должен быть код приглашения" }
+            ]
+        },
+        { 
+            "(VNT - organization, invited you to join)": [
+                { "ru": "(VNT - это организация, которая хочет вас пригласить)" }
+            ]
+        },
+        { 
+            "If you created account before, you can add VNT access to it": [
+                { "ru": "Если у Вас уже есть тут логин, вы можете добавить приглашение к нему" }
+            ]
+        },
+        { 
+            "If you never created account here, you need to create one": [
+                { "ru": "Если эккаунта нет, надо выбрать создание нового" }
+            ]
+        },
+        { 
+            "You can connect multiple VNTs to one account": [
+                { "ru": "Вы можете добавить несколько приглашений к одному эккаунту" }
+            ]
+        },
+        { 
+            "Or you can have multiple accounts, one per VNT": [
+                { "ru": "Или Вы можете создать несколько эккаунтов" }
+            ]
+        },
+        {
+            "MANIFESTO1": [
+                { "en": "We develop tools to change how people and smart machines work together"},
+                { "ru": "Мы делаем инструменты, чтобы изменить то, как люди и умные машины работают вместе"}
+            ]
+        },
+        {
+            "MANIFESTO2": [
+                { "en": "We embrace corporate culture but wish to be protected from manipulations"},
+                { "ru": "Мы уважаем корпоративную культуру но не хотим быть объектами манипулирования"}
+            ]
+        },
+        {
+            "MANIFESTO3": [
+                { "en": "We prefer to not mix private communications and business"},
+                { "ru": "Мы не хотим смешивать частные контакты и деловые"}
+            ]
+        },
+        {
+            "MANIFESTO4": [
+                { "en": "We embrace career but believe that position is a form of commitments, not rights"},
+                { "ru": "Мы уважаем карьеру, но считаем что должность - это ответственность и никаких прав"}
+            ]
+        },
+        {
+            "MANIFESTO5": [
+                { "en": "We believe in self-management more than in the veracity of hired managers"},
+                { "ru": "Мы больше верим в самоуправление, чем в добросовестность наёмных менеджеров"}
+            ]
+        },
+        {
+            "MANIFESTO6": [
+                { "en": "We will work hard, but for the goals we share and support"},
+                { "ru": "Мы готовы много работать, но только ради целей, которые мы разделяем"}
+            ]
+        },
+        {
+            "MANIFESTO7": [
+                { "en": "We need to have access to the information to make our own choice"},
+                { "ru": "Нам надо видеть всю картину, чтобы осознанно делать свой выбор"}
+            ]
+        },
+        {
+            "MANIFESTO8": [
+                { "en": "We do decisions and share responsibilities and profit in an open way"},
+                { "ru": "Мы принимаем решения, несем ответственность и делим прибыль открыто"}
+            ]
+        },
+        {
+            "MANIFESTO9": [
+                { "en": "Network is replacing hierarchy"},
+                { "ru": "Сеть заменяет иерархию"}
+            ]
+        },
+        {
+            "LOGIN_NAME_EXPLAIN": [
+                { "en": "Use your registered email to login" },
+                { "ru": "Используйте зарегистрированный email для входа" }
+            ]
+        },
+        {
+            "go directly to VNT": [
+                { "ru": "заходить сразу в VNT" }
+            ]
+        }
+    ]
+}

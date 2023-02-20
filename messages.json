@@ -1,0 +1,391 @@
+{
+    "languages": [
+        { "code": "rus", "name": "Русский" }
+    ],
+    "messages": [
+        {
+            "About": [
+                { "rus": "О проекте"}
+            ]
+        },
+        {
+            "ABOUT_VNT_SWITCH": [
+                { "eng": "you can switch between your users and VNTs with this selector" },
+                { "rus": "в этом меню вы можете переключаться между вашими именами и VNT" }
+            ]
+        },
+        {
+            "ABOUT_PRESENT": [
+                { "eng": "are you available or not for work with requests, if your switch off will disconnect part of VNT, it will be cancelled and you will see error message" },
+                { "rus": "доступны вы или нет для обработки заявок, если ваше отключение вызовет размыкание VNT, то вас не отключит и появится сообщение об ошибке" }
+            ]
+        },
+        {
+            "Log Out": [
+                { "rus": "Выход" }
+            ]
+        },
+        {
+            "Cancel": [
+                { "rus": "Отменить" }
+            ]
+        },
+        {
+            "Create request": [
+                { "rus": "Создать запрос" }
+            ]
+        },
+        { 
+            "nickname@VNT selector": [
+                { "rus": "выбор имя@VNT" },
+                { "esp": "nickname@VNT selector" },
+                { "gr": "nickname@VNT selector" },
+                { "fr": "nickname@VNT selector" }
+            ]
+        },
+        { 
+            "my groups": [
+                { "rus": "мои группы" },
+                { "esp": "my groups" },
+                { "gr": "my groups" },
+                { "fr": "my groups" }
+            ]
+        },
+        { 
+            "my services": [
+                { "rus": "мои сервисы" },
+                { "esp": "my services" },
+                { "gr": "my services" },
+                { "fr": "my services" }
+            ]
+        },
+        {
+            "options": [
+                { "rus": "настройки" },
+                { "esp": "options" },
+                { "gr": "options" },
+                { "fr": "options" }
+            ]
+        },
+        {
+            "Show org map": [
+                { "rus": "Показать карту организации" },
+                { "esp": "Show org map" },
+                { "gr": "Show org map" },
+                { "fr": "Show org map" }
+            ]
+        },
+        {
+            "UI template": [
+                { "rus": "Интерфейс" }
+            ]
+        },
+        {
+            "interface language": [
+                { "rus": "язык интерфейса"}
+            ]
+        },
+        {
+            "Your application language": [
+                { "rus": "Язык интерфейса"}
+            ]
+        },
+        {
+            "Create new VNT": [
+                { "rus": "Создать новый VNT"}
+            ]
+        },
+        {
+            "News": [
+                { "rus": "Новости"}
+            ]
+        },
+        {
+            "Docs": [
+                { "rus": "Документы"}
+            ]
+        },
+        {
+            "VNT name": [
+                { "rus": "Имя VNT"}
+            ]
+        },
+        {
+            "Delete VNT": [
+                { "rus": "Удалить VNT"}
+            ]
+        },
+        {
+            "Your name@vnt": [
+                { "rus": "Переключение на другой эккаунт/VNT"}
+            ]
+        },
+        {
+            "Your availability": [
+                { "rus": "Ваша доступность для работы"}
+            ]
+        },
+        {
+            "Your application user view": [
+                { "rus": "Тип веб-интерфейса"}
+            ]
+        },
+        {
+            "VNT Topology Map": [
+                { "rus": "Карта VNT"}
+            ]
+        },
+        {
+            "Topology": [
+                { "rus": "Карта VNT"}
+            ]
+        },
+        {
+            "Your Groups": [
+                { "rus": "Ваши группы"}
+            ]
+        },
+        {
+            "Groups you are member of": [
+                { "rus": "Вы входите в следующие группы"}
+            ]
+        },
+        {
+            "Your Services": [
+                { "rus": "Ваши Сервисы/Умения"}
+            ]
+        },
+        {
+            "Services you do for others": [
+                { "rus": "Сервисы/Умения которые вы предоставляете другим"}
+            ]
+        },
+        {
+            "Filters": [
+                { "rus": "Фильтры сервисов"}
+            ]
+        },
+        {
+            "Autorules": [
+                { "rus": "Правила автообработки"}
+            ]
+        },
+        {
+            "Automatic Rules": [
+                { "rus": "Автоматические правила обработки сообщений"}
+            ]
+        },
+        {
+            "Account": [
+                { "rus": "Учётная запись"}
+            ]
+        },
+        {
+            "Your Account": [
+                { "rus": "Ваша учётная запись"}
+            ]
+        },
+        {
+            "Services": [
+                { "rus": "Сервисы"}
+            ]
+        },
+        {
+            "Services/Requests": [
+                { "rus": "Сервисы/Заявки" }
+            ]
+        },
+        {
+            "Create request to Service": [
+                { "rus": "Создание запроса к сервису/навыку"}
+            ]
+        },
+        {
+            "Requests": [
+                { "rus": "Заявки"}
+            ]
+        },
+        {
+            "Inbox/My Requests/Archive": [
+                { "rus": "Входящие заявки/Мои звявки/Архив заявок"}
+            ]
+        },
+        {
+            "Support": [
+                { "rus": "Помошь"}
+            ]
+        },
+        {
+            "Help/Support": [
+                { "rus": "Помошь/Поддержка"}
+            ]
+        },
+        {
+            "CANT_CHANGE_PRESENCE": [
+                { "eng": "can't change presense as it will disconnect part of VNT" },
+                { "rus": "нельзя вас отключить так как это разделит VNT на отдельные части" }
+            ]
+        },
+        {
+            "Request subject": [
+                { "rus": "Имя запроса" }
+            ]
+        },
+        {
+            "Comment": [
+                { "rus": "Комментарий" }
+            ]
+        },
+        {
+            "Request Operation": [
+                { "rus": "Операция запроса" }
+            ]
+        },
+        {
+            "BOT_ADD_SERVICE_ACTION_MESSAGE": [
+                { "eng": "Add (need to enter new service code, description and variable names if needed)" },
+                { "rus": "Создать (нужно ввести код нового сервиса, описание и имена переменных)" }
+            ]
+        },
+        {
+            "BOT_DEL_SERVICE_ACTION_MESSAGE": [
+                { "eng": "Delete (need to select existed service code)" },
+                { "rus": "Удалить (нужно выбрать существующий сервис для удаления)" }
+            ]
+        },
+        {
+            "Create request to service": [
+                { "rus": "Создать запрос к сервису" }
+            ]
+        },
+        {
+            "Service path": [
+                { "rus": "Путь через другие сервисы" }
+            ]
+        },
+        {
+            "User/bot path": [
+                { "rus": "Маршрут через людей и ботов" }
+            ]
+        },
+        {
+            "Confirm": [
+                { "rus": "Выполнить" }
+            ]
+        },
+        {
+            "Description": [
+                { "rus": "Описание" }
+            ]
+        },
+        {
+            "My nickname": [
+                { "rus": "Мой ник" }
+            ]
+        },
+        {
+            "Initial Tokens": [
+                { "rus": "Добавить Токенов" }
+            ]
+        },
+        {
+            "VNTs examples": [
+                { "rus": "Готовые примеры" }
+            ]
+        },
+        {
+            "TOKENS_MANAGEMENT_MESSAGE": [
+                { "eng": "If you need transfer tokens to other user or add more tokens you need to make request to Tokens management bot service." },
+                { "rus": "Если вам надо перевести токены или добавить новые токены в VNT, вы должны сформировать запрос сервисному боту на управление токенами" }
+            ]
+        },
+        {
+            "VNTs you own and users you created": [
+                { "rus": "VNT, которыми вы владеете и пользователи, которых добавили" }
+            ]
+        },
+        {
+            "My account created date": [
+                { "rus": "Дата создания эккаунта" }
+            ]
+        },
+        {
+            "My account ID": [
+                { "rus": "ID моего эккаунта" }
+            ]
+        },
+        {
+            "Account IDs of new users I added": [
+                { "rus": "ID эккаунтов новых пользователей которых я добавил(а)" }
+            ]
+        },
+        {
+            "VNTs I created (receive agent royalties for their purchases)": [
+                { "rus": "VNT которые я создал(а) (и получаю отчисления с их покупок)" }
+            ]
+        },
+        {
+            "(can't transfer to other user)": [
+                { "rus": "(не могут быть переданы другому пользователю)" }
+            ]
+        },
+        {
+            "VNTs I own (pay VNT expences)": [
+                { "rus": "VNT которыми я владею (оплачиваю расходы)" }
+            ]
+        },
+        {
+            "[transfer to other user (not implemented yet)]": [
+                { "rus": "[перевести на другого пользователя (пока не сделано)]" }
+            ]
+        },
+        {
+            "Your VNT tokens": [
+                { "rus": "Ваши Токены в VNT" }
+            ]
+        },
+        {
+            "Your current VNT account is": [
+                { "rus": "Ваш текуший активный эккаунт VNT" }
+            ]
+        },
+        {
+            "Tokens on your current VNT account": [
+                { "rus": "Количество ваших токенов" }
+            ]
+        },
+        {
+            "Total tokens in your current VNT": [
+                { "rus": "Всего токенов в текушем активном VNT" }
+            ]
+        },
+        {
+            "You own": [
+                { "rus": "Вы владеете" }
+            ]
+        },
+        {
+            "of the your current active VNT": [
+                { "rus": "текущего активного VNT" }
+            ]
+        },
+        {
+            "ABOUT_VNT_CREATE_DEL": [
+                { "eng": " you can create new own VNTs or delete old" },
+                { "rus": "вы можете создавать новые собственные VNT или удалять старые" }
+            ]
+        },
+        {
+            "ARULES_TEXT": [
+                { "eng": "Requests, matched to these rules, will be approved and forwarded automatically. Masks are in regular expression form, for example '.*' matches all, 'admin.*' matches services started from the word 'admin'"},
+                { "rus": "Запросы, попадающие в эти правила, будут потверждены и посланы автоматически. Филтры в формате регулярных выражений, к пример '.*' означает 'все', 'admin.*' означает сервисы начинающиеся со слова 'admin'" }
+            ]
+        },
+        {
+            "SFILTERS_TEXT": [
+                { "eng": "Services Filter doesn't filter services, injected by your groups members. We use Regular Expression form for the filter masks, for example 'admin' matches only 'admin', 'a.*' matches all the services starting from the letter 'a'." },
+                { "rus": "Фильтр не фильтрует сервисы, анонсируемые внутри вашей группы. Используется формат регулярных выражений, например 'admin' совпадает только со словом 'admin', 'a.*' совпадает со всеми именами сервисов на букву 'a'." }
+            ]
+        }
+    ]
+}
